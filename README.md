@@ -42,7 +42,6 @@ This is what our AI is trying to guess/predict.
 
 ![GOES](./images/goes_cdaweb.png)
 
-• **Which exact variables to check (from your 8th screenshot):**
 1. `A/W Detector: Electron integral flux E2 >2 MeV (background, contamination and dead time corrected)`
 *(Why this one? "E2" stands for Energy level 2, which is >2 MeV. The "corrected" part means NASA already removed sensor glitches, saving you hours of data cleaning).*
 
