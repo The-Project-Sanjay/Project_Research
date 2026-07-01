@@ -1,4 +1,4 @@
-# 🛰️ Project Research & Documentation
+# Project Research & Documentation
 
 ## Table of Contents
 - [The Core Problem Statement Visually Understanding & its Solution](#the-core-problem-statement-visually-understanding--its-solution)
