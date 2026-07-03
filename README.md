@@ -87,7 +87,8 @@ It's running slightly ahead of the blue line during the rise phase - meaning the
 ## Research References
 
 - **September 2017 storm** - NASA official article (the one we used as proof for the POC graph):
-  [NASA GOES Sept 2017](https://www.nasa.gov/missions/goes/september-2017s-intense-solar-activity-viewed-from-space/)
+  [NASA GOES Sept 2017](https://www.nasa.gov/missions/goes/september-2017s-intense-solar-activity-viewed-from-space/) || 
+  [Sun Errupts with Significant Flare](https://www.nasa.gov/solar-system/sun-erupts-with-significant-flare)
 
 - **NASA CDAWeb** (where you downloaded GOES-15 + OMNI data):
   [cdaweb.gsfc.nasa.gov](https://cdaweb.gsfc.nasa.gov)
