@@ -1,5 +1,8 @@
 # Project Research & Documentation
 
+## Project Sanjay:
+### Inspired by Sanjay's Divya Drishti in the Mahabharat: our AI acts as ISRO's(Maharaj Dhritarashtra) divine vision. By analyzing L1 solar wind telemetry (Kurukshetra), we broadcast 12-hour early warnings of killer electron storms, empowering ISRO to trigger satellite safe modes in time.
+
 ## Table of Contents
 - [The Core Problem Statement Visually Understanding & its Solution](#the-core-problem-statement-visually-understanding--its-solution)
 - [The Dataset Sources](#the-dataset-sources)
