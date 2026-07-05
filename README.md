@@ -1,5 +1,10 @@
 # Project Research & Documentation
 
+## 🎬 Project Sanjay in 3 Minutes
+**[▶️ Click here to watch the Explainer Video on Youtube](https://youtu.be/LkuZka9A0xg)**
+
+![Project Sanjay Explainer](./gifs/ProjectSanjayGIF.gif)
+
 ## Project Sanjay:
 ### Inspired by Sanjay's Divya Drishti in the Mahabharat: our AI acts as ISRO's(Maharaj Dhritarashtra) divine vision. By analyzing L1 solar wind telemetry (Kurukshetra), we broadcast 12-hour early warnings of killer electron storms, empowering ISRO to trigger satellite safe modes in time.
 
